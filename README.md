@@ -31,3 +31,5 @@ usuyami
 TeBawsGauss
 shaql
 ```
+
+Thanks to VanuLabs for the high-res continental maps.
