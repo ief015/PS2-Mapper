@@ -34,6 +34,8 @@ gio3505
 Thomasx1
 futureminime
 ARogueTrader
+ELWoMS
+DerpAttack
 ```
 
 Thanks to VanuLabs for the high-res continental maps.
