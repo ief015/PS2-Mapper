@@ -36,6 +36,8 @@ futureminime
 ARogueTrader
 ELWoMS
 DerpAttack
+Mexiguy
+ppolewicz
 ```
 
 Thanks to VanuLabs for the high-res continental maps.
