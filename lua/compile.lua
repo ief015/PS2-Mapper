@@ -91,17 +91,18 @@ local function report_duplicates(points)
 	end
 end
 
-local function compile(listFilename, baseFilename, outputFilename)
+local function compile(listFilename, baseFilename, outputFilename, legendFilename)
 	assert(listFilename, "list filename was not provided");
 	assert(baseFilename, "base image filename was not provided");
 	outputFilename = outputFilename or "out.jpg";
+	legendFilename = legendFilename or "legend.png";
 	print("Loading assets for '"..listFilename.."' ...");
 	local fList = assert(io.open('list/'..listFilename, 'r'), "list file was not loaded");
 	local points = process_listfile(fList);
 	report_duplicates(points);
 	local imgBase = sf.Image('res/base/'..baseFilename);
 	assert(imgBase ~= nil, "base image was not loaded");
-	local imgLegend = sf.Image('res/legend.png');
+	local imgLegend = sf.Image('res/'..legendFilename);
 	assert(imgBase ~= nil, "legend image was not loaded");
 	local imgPointLow = sf.Image('res/point_l.png');
 	assert(imgPointLow ~= nil, "low point image was not loaded");
