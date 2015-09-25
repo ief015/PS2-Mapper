@@ -102,7 +102,7 @@ local function compile(listFilename, baseFilename, outputFilename, legendFilenam
 	report_duplicates(points);
 	local imgBase = sf.Image('res/base/'..baseFilename);
 	assert(imgBase ~= nil, "base image was not loaded");
-	local imgLegend = sf.Image('res/'..legendFilename);
+	local imgLegend = sf.Image(legendFilename);
 	assert(imgBase ~= nil, "legend image was not loaded");
 	local imgPointLow = sf.Image('res/point_l.png');
 	assert(imgPointLow ~= nil, "low point image was not loaded");
