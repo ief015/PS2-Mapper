@@ -39,6 +39,7 @@ ELWoMS
 DerpAttack
 Mexiguy
 ppolewicz
+KillTheBronies
 ```
 
 Thanks to VanuLabs for the high-res continental maps.
