@@ -22,24 +22,6 @@ Requires an installation of Lua/LuaJIT with FFI functionality. Binaries provided
 * [LSFML](https://github.com/ief015/LSFML)
 
 
-Pumpkin Hunters
+Credits
 ---------------
-```
-BurntScythe
-BralVS
-Dromaevs
-usuyami
-TeBawsGauss
-shaql
-gio3505
-Thomasx1
-futureminime
-ARogueTrader
-ELWoMS
-DerpAttack
-Mexiguy
-ppolewicz
-KillTheBronies
-```
-
-Thanks to VanuLabs for the high-res continental maps.
+Thanks to VanuLabs for the high-res continental maps, and to all contributing pumpkin hunters!
