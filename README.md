@@ -1,3 +1,7 @@
+#The Pumpkin/Snowmen maps are ridiculously out-of-date!
+If you're here looking to find the best way to find pumpkins/snowmen, just search near roads and you'll find some. These maps are based on old map data where bases that had once existed are no longer, and where major terrain updates have occured. The spawn points for pumpkin/snowmen have certainly moved since.
+
+
 PlanetSide 2 Point Mapper
 =========================
 
